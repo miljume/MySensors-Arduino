@@ -14,7 +14,7 @@
 *
 * This program is free software; you can redistribute it and/or
 * modify it under the terms of the GNU General Public License
-* version 2 as published by the Free Software Foundation.
+* version 2 as published by the Free Software Foundation..
 *
 *******************************
 *
@@ -23,7 +23,7 @@
 *
 * DESCRIPTION
 * Sensor with double temp sensors, one HTU21D combined temp with humidity and one DS18B20 for extrenal measurement 
-* HTU21D values are shown in one device and DS18B20 in another
+* HTU21D values are shown in one device and DS18B20 in another.
 *
 */
 
